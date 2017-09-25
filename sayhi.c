@@ -1,3 +1,5 @@
+//Sarsetova Nurgul
+//3EN04B
 #include <stdio.h>  
 #include <stdlib.h>    
 #include <getopt.h>
